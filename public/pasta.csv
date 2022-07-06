@@ -1,0 +1,174 @@
+id;name;region;price;basePrice;manufacturer;properties
+6951;Spaghetti - Hartweizennudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6957;Penne Mancini - Hartweizennudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6955;Linguine - Hartweizennudeln, lang;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6953;Spaghetti alla chitarra - Hartweizennudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+25423;Spaghettini - Hartweizennudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+24856;Tortelloni con ricotta e spinaci - frische Eiernudeln mit Ricotta und Spinat;Emilia Romagna;4.3;1,72 €/100 g;Pasta Fresca Rossi;
+6959;Fusilli - Hartweizennudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6927;Fusilli - gedrehte Nudeln;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6915;Linguine - flache Spaghetti;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6928;Penne rigate - Federkiele;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6917;Spaghettini - dünne Spaghetti;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6918;Spaghetti - Klassiker;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6901;Linguine mit Knoblauch & Basilikum - Hartweizengrießnudeln;Toskana;4.8;1,92 €/100 g;Lorenzo il Magnifico;
+6992;Trofie - Ligurische Nudeln, gedreht;Abruzzen;4.95;1,98 €/100 g;Rustichella;
+6989;Tagliatelle - Eierbandnudeln;Abruzzen;4.95;1,98 €/100 g;Rustichella;
+6893;Linguine mit Zitrone und Pfeffer - Hartweizengrießnudeln;Toskana;5.2;2,08 €/100 g;Lorenzo il Magnifico;
+6952;Spaghetti - Hartweizennudeln;Marken;8.95;8,95 €/KG;Pasta Mancini;
+6921;Bucatini - hohle Spaghetti;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6931;Fregola tostata - Hartweizengrieß-Kügelchen, geröstet;Abruzzen;8.5;17,00 €/KG;Rustichella;
+6894;Tagliolini mit Trüffeln - Hartweizengrießnudeln;Toskana;5.9;2,36 €/100 g;Lorenzo il Magnifico;
+6963;Mezze Maniche - Hartweizennudeln, großformatig;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6919;Pappardelle rigate - sehr breite Bandnudeln;Abruzzen;4.95;9,90 €/KG;Rustichella;
+6941;Orecchiette - Öhrchen;Abruzzen;4.95;1,98 €/100 g;Rustichella;
+25424;Rigatoni - Hartweizennudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6961;Maccheroni - Hartweizennudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6914;Chitarra - kantige Spaghetti;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6983;Spugnole Don Antonio - Hartweizengrießnudeln;Abruzzen;5.9;11,80 €/KG;Don Antonio;
+6960;Fusilli - Hartweizennudeln;Marken;8.95;8,95 €/KG;Pasta Mancini;
+6985;Fettuccine - schmale Eierbandnudeln;Abruzzen;4.95;1,98 €/100 g;Rustichella;
+163560;Spaghetti N°3, glutenfrei - Glutenfreie Nudeln;Kampanien;3.95;9,88 €/KG;Rummo;glutenFree,vegan,lactoseFree
+6890;Tagliatelle mit Safran - Hartweizengrießnudeln;Toskana;6.8;2,72 €/100 g;Lorenzo il Magnifico;
+6981;Reginella Don Antionio - Hartweizengrießnudeln;Abruzzen;5.9;11,80 €/KG;Don Antonio;
+6930;Fettuccine - breite, gerade Bandnudeln;Abruzzen;4.95;9,90 €/KG;Rustichella;
+8015;Pasta all’uovo Piemontese Tagliolini - Eiernudeln aus dem Piemont;Piemont;5.9;2,36 €/100 g;Cascina San Giovanni;
+164186;Linguine - Hartweizennudeln;;4.3;8,60 €/KG;Viani;vegan,lactoseFree
+426828;Ravioli del Plin - Kleine Ravioli gefüllt mit Fleisch;Ligurien;4.5;1,80 €/100 g;Pastificio Plin;
+6940;Tagliatelle Nidi - dünne Bandnudeln in Nestern;Abruzzen;5.95;11,90 €/KG;Rustichella;
+6924;Fusilli col buco - Korkenzieher;Abruzzen;5.95;11,90 €/KG;Rustichella;
+24852;Tortellini di Modena - frische Eiernudeln mit Parmigiano Reggiano DOP;Emilia Romagna;4.95;1,98 €/100 g;Pasta Fresca Rossi;
+6896;Linguine mit Tintenfischtinte - Hartweizengrießnudeln;Toskana;5.2;2,08 €/100 g;Lorenzo il Magnifico;
+426831;Plin mit Wildkräutern - Kleine Ravioli, gefüllt mit Wildkräutern;Ligurien;4.7;1,88 €/100 g;Pastificio Plin;vegetarian
+6944;Gnocchi di patate - Kartoffelklößchen;Abruzzen;7.5;15,00 €/KG;Rustichella;glutenFree
+6912;Tagliatelle mit weißen Trüffeln - Eierbandnudeln;;10.9;4,36 €/100 g;Viani & Co.;
+19950;Orecchiette  - Hartweizengrießnudeln;Abruzzen;5.9;11,80 €/KG;Don Antonio;
+6976;Nastrini - handgefertigt, 4 mm;Abruzzen;7.9;3,16 €/100 g;Rustichella;
+164185;Spaghetti - Hartweizennudeln;;4.3;8,60 €/KG;Viani;vegan,lactoseFree
+164184;Fusilli N°48, glutenfrei - Nudeln aus Vollkornreis und Mais;Kampanien;3.95;9,88 €/KG;Rummo;glutenFree,vegan,lactoseFree
+6911;Tagliolini mit Sommertrüffeln - Eierbandnudeln;;9.9;3,96 €/100 g;Viani & Co.;
+6987;Pappardelle - breite Eierbandnudeln;Abruzzen;4.95;1,98 €/100 g;Rustichella;
+416273;Fregola Tostata, Bio - Hartweizengrießnudeln;Sardinien;6.5;13,00 €/KG;Artinpasta;organic,vegan,vegetarian,lactoseFree
+6929;Tortiglioni - Gerillte Röhrennudeln;Abruzzen;4.5;9,00 €/KG;Rustichella;
+24853;Ravioli al brasato - frische Eiernudeln mit Fleischfüllung;Emilia Romagna;4.7;1,88 €/100 g;Pasta Fresca Rossi;
+6916;Capellini - feinste Spaghetti;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6902;Tagliolini mit Tomaten - Dünne Bandnudeln;Toskana;4.8;1,92 €/100 g;Lorenzo il Magnifico;
+499495;Foglie d'Ulivo - Nudeln aus Hartweizengrieß, Bio;Ligurien;5;10,00 €/KG;Pasta di Liguria;organic,vegan,vegetarian
+6898;Tagliatelle mit Steinpilzen - Hartweizengrießnudeln;Toskana;5.5;2,20 €/100 g;Lorenzo il Magnifico;
+19951;Fusilli giganti  - Hartweizengrießnudeln;Abruzzen;5.9;11,80 €/KG;Don Antonio;
+24944;Gnocchi di patata fresca - frische Kartoffelklößchen;Venetien;3.9;11,14 €/KG;So Pronto;
+499491;Spaghetti - Nudeln aus Hartweizengrieß, Bio;Ligurien;5;10,00 €/KG;Pasta di Liguria;organic,vegan,vegetarian
+6926;Cannolicchi - Gedrehte Nudeln;Abruzzen;5.5;11,00 €/KG;Rustichella;
+6975;Linguette - handgefertigt, 2 mm;Abruzzen;7.9;3,16 €/100 g;Rustichella;
+164183;Penne Rigate N°66, glutenfrei - Glutenfreie Nudeln;Kampanien;3.95;9,88 €/KG;Rummo;glutenFree,vegan,lactoseFree
+8017;Pasta all’uovo Piemontese Tagliatelle - Eiernudeln aus dem Piemont;Piemont;5.9;2,36 €/100 g;Cascina San Giovanni;
+6965;Tuffoli - Hartweizennudeln, großformatig;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6895;Linguine mit Peperoncino - Hartweizengrießnudeln;Toskana;4.8;1,92 €/100 g;Lorenzo il Magnifico;
+24854;Cappelletti con prosciutto crudo - frische Eiernudeln mit Schinken;Emilia Romagna;4.7;1,88 €/100 g;Pasta Fresca Rossi;
+426830;Plin mit Castelmagno DOP - Kleine Ravioli mit Castelmagno-Käse;Ligurien;5.9;2,36 €/100 g;Pastificio Plin;vegetarian
+6984;Pennoni  - Hartweizengrießnudeln;Abruzzen;5.9;11,80 €/KG;Don Antonio;
+426834;Ravioli mit Borretsch - Agnolotti alla Borragine;Ligurien;4.5;1,80 €/100 g;Pastificio Plin;vegetarian
+6942;Farfalloni - Schmetterlinge;Abruzzen;5.5;11,00 €/KG;Rustichella;
+6923;Rigatoncini - Röhrennudeln;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6990;Tagliolini - feine Eierbandnudeln;Abruzzen;4.95;1,98 €/100 g;Rustichella;
+6980;Spaghetti  - Hartweizengrießnudeln;Abruzzen;5.9;11,80 €/KG;Don Antonio;
+6958;Penne - Hartweizennudeln;Marken;8.95;8,95 €/KG;Pasta Mancini;
+499492;Croxetti - Nudeln aus Hartweizengrieß, Bio;Ligurien;5;10,00 €/KG;Pasta di Liguria;organic,vegan,vegetarian
+6925;Conchiglioni - natur;Abruzzen;5.4;10,80 €/KG;Rustichella;
+416272;Fregola, Bio - Hartweizengrießnudeln;Sardinien;5.5;11,00 €/KG;Artinpasta;organic,vegan,vegetarian,lactoseFree
+6971;Tonnarelli al peperoncino - Spaghetti mit Chili;Abruzzen;5.5;11,00 €/KG;Rustichella;
+426832;Plin mit Fonduta und Trüffel - Kleine Ravioli mit Käse und Trüffel;Ligurien;5.9;2,36 €/100 g;Pastificio Plin;vegetarian
+499493;Trofiette - Nudeln aus Hartweizengrieß, Bio;Ligurien;5;10,00 €/KG;Pasta di Liguria;organic,vegan,vegetarian
+31437;Spaghetti Turanici, Bio - Spaghetti aus Vollkorn-Hartweizengrieß;Marken;6.95;13,90 €/KG;Pasta Mancini;organic,vegan,vegetarian
+416274;Malloreddos, Bio - Hartweizengrießnudeln;Sardinien;6.9;13,80 €/KG;Artinpasta;organic,vegan,vegetarian,lactoseFree
+6993;Lasagne all’uovo - Eier-Nudelplatten;Abruzzen;6.95;2,78 €/100 g;Rustichella;
+525791;Fusilli Lunghi - Hartweizengrießnudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6991;Cannelloni - Hartweizengrießnudeln;Abruzzen;5.25;2,10 €/100 g;Rustichella;
+498572;Gemelli - Nudeln aus Hartweizengrieß;Kampanien;4.5;9,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+499496;Signorine alle Castagne - Nudeln aus Hartweizengrieß und Kastanienmehl, Bio;Ligurien;5;2,00 €/100 g;Pasta di Liguria;organic,vegan,vegetarian
+498563;Spaghetti - Nudeln aus Hartweizengrieß;Kampanien;4.5;9,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+7001;Laganelle - Eierbandnudeln mit Zitrone;Abruzzen;7.95;3,18 €/100 g;Rustichella;
+23827;Garganelli - Eiernudeln;Abruzzen;5.4;2,16 €/100 g;Rustichella;
+539111;Gnocchi di Patate - Kartoffelnocken;Kampanien;4.9;9,80 €/KG;Rummo;lactoseFree
+6932;Orzo pasta - Hartweizengrießnudeln;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6977;Paccheri - Hartweizenmehlnudeln, großformatig;Abruzzen;5.95;11,90 €/KG;Rustichella;
+6986;Fettuccine paglia e fieno - Eierbandnudeln, grün & gelb;Abruzzen;5.95;2,38 €/100 g;Rustichella;
+350137;Penne Integrale - Penne aus Vollkorn-Hartweizengrieß;Marken;4.3;8,60 €/KG;Pasta Mancini;vegan,vegetarian
+24940;Gnocchi alla zucca - frische Kartoffelklößchen mit Kürbis;Venetien;4.5;12,86 €/KG;So Pronto;
+499494;Trenette - Nudeln aus Hartweizengrieß, Bio;Ligurien;5;10,00 €/KG;Pasta di Liguria;organic,vegan,vegetarian
+560553;Penne Lisce Turanici - Penne aus Durum-Weizen, Bio;Marken;6.95;13,90 €/KG;Pasta Mancini;organic
+498569;Penne rigate - Nudeln aus Hartweizengrieß;Kampanien;4.5;9,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+24939;Gnocchi alla ricotta - frische Kartoffelklößchen mit Ricotta;Venetien;4.5;12,86 €/KG;So Pronto;
+568997;Bucatini - Hartweizengrießnudeln;Marken;4.3;8,60 €/KG;Pasta Mancini;
+6922;Pennine lisce - Federkiele;Abruzzen;4.5;9,00 €/KG;Rustichella;
+6969;Tonnarelli al nero di seppia - schwarze Spaghetti mit Tintenfischtinte;Abruzzen;5.95;11,90 €/KG;Rustichella;
+164188;Maccheroni - Hartweizennudeln;;4.3;8,60 €/KG;Viani;vegan,lactoseFree
+426835;Ravioli mit Keulenzucchini - Ravioli mit Zucchini aus Albenga;Ligurien;5.5;2,20 €/100 g;Pastificio Plin;vegetarian
+6972;Conchiglioni tris - Riesenmuscheln, dreifarbig;Abruzzen;5.95;11,90 €/KG;Rustichella;
+24855;Cappelletti con prosciutto crudo - frische Eiernudeln mit Schinken;Emilia Romagna;15.6;15,60 €/KG;Pasta Fresca Rossi;
+24857;Tortelloni con ricotta e spinaci - frische Eiernudeln mit Ricotta und Spinat;Emilia Romagna;15.2;15,20 €/KG;Pasta Fresca Rossi;
+6892;Fettuccine mit Oliven - Hartweizengrießnudeln;Toskana;5.2;2,08 €/100 g;Lorenzo il Magnifico;
+8018;Pasta all’uovo Piemontese Pappardelle - Eiernudeln aus dem Piemont;Piemont;5.9;2,36 €/100 g;Cascina San Giovanni;
+568993;Linguine - Eiernudeln;Marken;6.4;2,56 €/100 g;La Campofilone;vegetarian
+539106;Tagliolini all'uovo N°93 - Feine Eierbandnudeln;Kampanien;4.9;1,96 €/100 g;Rummo;lactoseFree
+6945;Tonnarelli con spinaci - grüne Spaghetti mit Spinat;Abruzzen;5.5;11,00 €/KG;Rustichella;
+6913;Spaghetti lunghi - lange Spaghetti;Abruzzen;6.95;13,90 €/KG;Rustichella;
+498568;Paccheri - Nudeln aus Hartweizengrieß;Kampanien;5.5;11,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+23833;Dinkel Spaghetti, Bio - Spaghetti integrali farro, Bio;Abruzzen;6.95;13,90 €/KG;Rustichella;organic
+498564;Spaghettini - Nudeln aus Hartweizengrieß;Kampanien;4.5;9,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+23831;Vollkorn Fusilli, Bio - Fusilli integrali, Bio;Abruzzen;5.5;11,00 €/KG;Rustichella;organic
+21218;Linguine mit Sommertrüffeln - Eierbandnudeln;;5.9;2,36 €/100 g;Viani & Co.;
+350138;Fusilli Integrali - Fusilli aus Vollkorn-Hartweizengrieß;Marken;4.3;8,60 €/KG;Pasta Mancini;vegan,vegetarian
+498565;Linguine - Nudeln aus Hartweizengrieß;Kampanien;4.5;9,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+498567;Vesuvio - Nudeln aus Hartweizengrieß;Kampanien;4.5;9,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+284662;Tagliolini mit Lachs - Hartweizengrießnudeln;Toskana;5.2;2,08 €/100 g;Lorenzo il Magnifico;
+6937;Dinkel Penne rigate Bio - Federkiele aus Dinkel;Abruzzen;6.95;13,90 €/KG;Rustichella;organic
+568996;Pappardelle - Eiernudeln;Marken;6.4;2,56 €/100 g;La Campofilone;vegetarian
+350136;Spaghetti integrali - Spaghetti aus Vollkorn-Hartweizengrieß;Marken;4.3;8,60 €/KG;Pasta Mancini;vegan,vegetarian
+23829;Vollkorn Spaghetti, Bio - Spaghetti integrali Bio;Abruzzen;5.5;11,00 €/KG;Rustichella;organic
+498566;Fettuccine - Nudeln aus Hartweizengrieß;Kampanien;4.5;9,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+539110;Tagliatelle all'uovo N°132 - Eierbandnudeln;Kampanien;4.9;1,96 €/100 g;Rummo;lactoseFree
+498570;Rigatoni - Nudeln aus Hartweizengrieß;Kampanien;5.5;11,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+8008;Tagliatelle al Barolo - Eiernudeln aus dem Piemont;Piemont;5.9;2,36 €/100 g;Cascina San Giovanni;
+568995;Tagliatelle - Eiernudeln;Marken;6.4;2,56 €/100 g;La Campofilone;vegetarian
+568994;Fettuccine - Eiernudeln;Marken;6.4;2,56 €/100 g;La Campofilone;vegetarian
+23830;Vollkorn Penne rigate, Bio - Penne rigate integrali, Bio;Abruzzen;5.5;11,00 €/KG;Rustichella;organic
+25036;Gnocchi di patata fresca, große Packung - frische Kartoffelklößchen;Venetien;9.9;9,90 €/KG;So Pronto;
+485035;Pizzoccheri della Valtellina IGP - Kurze Pasta mit Buchweizenmehl;Lombardei;4.5;9,00 €/KG;Molino Filippini;vegan,vegetarian,lactoseFree,halal
+539108;Pappardelle all'uovo N°101 - Breitbandeiernudeln;Kampanien;4.9;1,96 €/100 g;Rummo;lactoseFree
+164187;Penne - Hartweizennudeln;;4.3;8,60 €/KG;Viani;vegan,lactoseFree
+485037;Pizzoccheri NIDO - Pastanester mit Buchweizenmehl;Lombardei;4.5;9,00 €/KG;Molino Filippini;vegan,vegetarian,lactoseFree,halal
+539109;Paglia e Fieno all'uovo N°105 - Eierbandnudeln mit Spinat;Kampanien;4.9;1,96 €/100 g;Rummo;lactoseFree
+498571;Conchiglioni - Nudeln aus Hartweizengrieß;Kampanien;5.5;11,00 €/KG;Faella;vegan,vegetarian,lactoseFree
+8003;Bunte Pastatüte - Cuori · Herzen;Piemont;9.95;19,90 €/KG;Cascina San Giovanni;
+485036;Pizzoccheri Molino Filippini - Pastanester mit Buchweizenmehl;Lombardei;4.9;9,80 €/KG;Molino Filippini;vegan,vegetarian,lactoseFree,halal
+539107;Fettucine all'uovo N°94 - Eierbandnudeln;Kampanien;4.9;1,96 €/100 g;Rummo;lactoseFree
+6936;Fusilli di mais senza glutine, Bio - Maismehl-Nudeln glutenfrei;Abruzzen;5.7;2,28 €/100 g;Rustichella;organic
+568992;Maccheroncini di Campofilone IGP - Eiernudeln;Marken;6.4;2,56 €/100 g;La Campofilone;vegetarian
+554620;Linguine Finocchio - Bandnudeln mit Fenchel;Toskana;5.2;2,08 €/100 g;Lorenzo il Magnifico;
+6935;Spaghetti di mais senza glutine, Bio - Maismehl-Nudeln glutenfrei;Abruzzen;5.7;2,28 €/100 g;Rustichella;organic
+554621;Linguine Tricolore - Hartweizengrießnudeln, 3-farbig;Toskana;5.5;2,20 €/100 g;Lorenzo il Magnifico;
+485034;Gnocchetti con grano saraceno - Kleine Nudeln mit Buchweizenmehl;Lombardei;4.5;9,00 €/KG;Molino Filippini;vegan,vegetarian,lactoseFree,halal
+8002;Bunte Pastatüte - Farfalle · Schmetterlinge;Piemont;9.95;24,88 €/KG;Cascina San Giovanni;
+554619;Linguine mit Hanf - Hartweizengrieß;Toskana;5.8;2,32 €/100 g;Lorenzo il Magnifico;
+21174;Casarecce N°88 - Hartweizengrießnudeln;Kampanien;44.8;5,60 €/KG;Rummo;
+19743;Fusilli N°48 - Hartweizengrießnudeln;Kampanien;44.8;5,60 €/KG;Rummo;
+21172;Riccioli N°54 - Hartweizengrießnudeln;Kampanien;44.8;5,60 €/KG;Rummo;
+19713;Penne Rigate N°66 - Hartweizengrießnudeln;Kampanien;44.8;5,60 €/KG;Rummo;
+19712;Mezzi Rigatoni N°51 - Hartweizengrießnudeln;Kampanien;44.8;5,60 €/KG;Rummo;
+21173;Gnocchetti sardi N°63 - Hartweizengrießnudeln;Kampanien;44.8;5,60 €/KG;Rummo;
+19754;Vollkorn Fusilli, Bio - Vollkornnudeln;Kampanien;48;6,00 €/KG;Rummo;organic
+19755;Vollkorn-Penne rigate, Bio - Vollkornnudeln;Kampanien;48;6,00 €/KG;Rummo;organic
+19748;Mafaldine N°80 - Hartweizengrießnudeln;Kampanien;49.2;8,20 €/KG;Rummo;
+88929;Mezzi Paccheri Rigate N°152 - Hartweizengrießnudeln, (ehemals Art.Nr. 4476 Mezzi Paccheri Lisci N°15);Kampanien;49.2;8,20 €/KG;Rummo;
+19735;Spaghettini N°2 - Hartweizengrießnudeln;Kampanien;60;500,00 €/100 g;Rummo;
+19739;Penne Rigate N°66 - Hartweizengrießnudeln;Kampanien;60;500,00 €/100 g;Rummo;
+19742;Linguine N°13 - Hartweizengrießnudeln;Kampanien;60;500,00 €/100 g;Rummo;
+19738;Mezzi Rigatoni N°51 - Hartweizengrießnudeln;Kampanien;60;500,00 €/100 g;Rummo;
+19744;Fusilli N°48 - Hartweizengrießnudeln;Kampanien;60;500,00 €/100 g;Rummo;
+19736;Spaghetti N°3 - Hartweizengrießnudeln;Kampanien;60;500,00 €/100 g;Rummo;
+19710;Spaghettini N°2 - Hartweizengrießnudeln;Kampanien;64.8;5,40 €/KG;Rummo;
+19746;Fettucce N°15 - Hartweizengrießnudeln;Kampanien;64.8;5,40 €/KG;Rummo;
+19711;Spaghetti N°3 - Hartweizengrießnudeln;Kampanien;64.8;5,40 €/KG;Rummo;
+19741;Linguine N°13 - Hartweizengrießnudeln;Kampanien;64.8;5,40 €/KG;Rummo;
+19753;Vollkorn Spaghetti, Bio - Vollkornnudeln;Kampanien;67.2;5,60 €/KG;Rummo;organic
